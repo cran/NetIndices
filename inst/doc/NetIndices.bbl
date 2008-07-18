@@ -1,0 +1,160 @@
+\begin{thebibliography}{10}
+
+\bibitem{Patten92}
+Patten BC.
+\newblock Energy, emergy and environs.
+\newblock {\em Ecological Modelling}, 62:29--69, 1992.
+
+\bibitem{Patten76}
+Patten BC, Bosserman RW, Finn JT, and Cale WG.
+\newblock Propagation of cause in ecosystems.
+\newblock In Patten BC, editor, {\em Systems Analysis and Simulation in
+  Ecology}, volume~4, pages 457--579. Academic Press, New York, 1976.
+
+\bibitem{Shannon48}
+Shannon CE.
+\newblock A mathematical theory of communication.
+\newblock {\em Bell System Technical Journal}, 27:379--423, 1948.
+
+\bibitem{Christensen92}
+V~Christensen and D~Pauly.
+\newblock Ecopath ii - a software for balancing steady-state ecosystem models
+  and calculating network characteristics.
+\newblock {\em Ecological Modelling}, 61:169--185, 1992.
+
+\bibitem{Fath04}
+BD~Fath.
+\newblock Network analysis applied to large-scale cyber-ecosystems.
+\newblock {\em Ecological Modelling}, 171:329--337, 2004.
+
+\bibitem{Fath99b}
+Patten~BC Fath~BD.
+\newblock Quantifying resource homogenization using network flow analysis.
+\newblock {\em Ecological Modelling}, 123:193--205, 1999.
+
+\bibitem{Field89}
+Mann~KH Field~JG, Wulf~F.
+\newblock The need to analyze ecological networks.
+\newblock In Mann~KH Wulff~F, Field~JG, editor, {\em Network analysis in marine
+  ecology: methods and applications}, pages p3--12. Springer-Verlag, Berlin,
+  1989.
+
+\bibitem{Higashi89}
+Patten~BC Higashi~M.
+\newblock Dominance of indirect causality in ecosystems.
+\newblock {\em The American Naturalist}, 133:288--302, 1989.
+
+\bibitem{Hirata84}
+Ulanowicz~RE Hirata~H.
+\newblock Informational theoretical analysis of ecological networks.
+\newblock {\em The American Naturalist}, 133:288--302, 1984.
+
+\bibitem{Finn76}
+Finn JT.
+\newblock Measures of ecosystem structure and function derived from analysis of
+  flows.
+\newblock {\em Journal of Theoretical Biology}, 56:363--380, 1976.
+
+\bibitem{Finn78}
+Finn JT.
+\newblock Cycling index: a general definition for cycling in compartmental
+  models.
+\newblock In Brisbin~IL Adriano~DC, editor, {\em Environmental Chemistry and
+  Cycling Processes, DOE Proceedings 45, Conf. 760429}, pages 138--165.
+  National Technical Information Service, Springfield, VA, 1978.
+
+\bibitem{Finn80}
+Finn JT.
+\newblock Flow analysis of models of the hubbard brook ecosystem.
+\newblock {\em Ecology}, 61:562--571, 1980.
+
+\bibitem{Latham02}
+Scully~EP Latham~LG.
+\newblock Quantifying constraint to assess development in ecological networks.
+\newblock {\em Ecological Modelling}, 154:25--44, 2002.
+
+\bibitem{Latham06}
+Latham LG.
+\newblock Network flow analysis algorithms.
+\newblock {\em Ecological Modelling}, 192:586--600, 2006.
+
+\bibitem{Gardner70}
+Gardner MR and Ashby WR.
+\newblock Connectance of large dynamic (cybernetic) systems: critical values
+  for stabitlity.
+\newblock {\em Nature}, 228:784, 1970.
+
+\bibitem{Patten81}
+Auble~GT Patten~BC.
+\newblock System theory of the ecological niche.
+\newblock {\em The American Naturalist}, 117:893--922, 1981.
+
+\bibitem{Patten84}
+Higashi~M Patten~BC.
+\newblock Modified cycling index for ecological applications.
+\newblock {\em Ecological Modelling}, 25:69--83, 1984.
+
+\bibitem{Patten82}
+Richardson~TH Patten~BC, Barber~MC.
+\newblock Path analysis of a reservoir ecosystem model.
+\newblock {\em Canadian Water Resources Journal}, 7:252--282, 1982.
+
+\bibitem{Fath98}
+Patten~BC PFath~BD.
+\newblock Network synergism: emergence of positive relations in ecological
+  systems.
+\newblock {\em Ecological Modelling}, 107:127--143, 1998.
+
+\bibitem{Fath99}
+Patten~BC PFath~BD.
+\newblock Review of the foundations of network environ analysis.
+\newblock {\em cosystems}, 2:167--179, 1999.
+
+\bibitem{Pimm80}
+Lawton~JH Pimm~SL.
+\newblock Are food webs divided into compartments?
+\newblock {\em Journal of Animal Ecology}, 49:879--898, 1980.
+
+\bibitem{Ulanowicz00}
+Ulanowicz RE.
+\newblock Ascendency: a measure of ecosystem performance.
+\newblock In Muller~F Jorgensen~SE, editor, {\em Handbook of Ecosystem Theories
+  and Management}, pages 303--315. Lewis Publishers, Boca Raton, 2000.
+
+\bibitem{Gallager68}
+Gallager RG.
+\newblock {\em Information Theory and Reliable Communication}.
+\newblock Wiley, New York, 1968.
+
+\bibitem{Lindeman42}
+Lindeman RL.
+\newblock The trophic dynamic aspect of ecology.
+\newblock {\em Ecology}, 23:399--418, 1942.
+
+\bibitem{Rutledge76}
+Mulholland~RJ Rutledge~RW, Basorre~BL.
+\newblock Ecological stability: an information theory viewpoint.
+\newblock {\em Journal of Theoretical Biology}, 57:355--371, 1976.
+
+\bibitem{Ulanowicz80}
+R.E. Ulanowicz.
+\newblock An hypothesis on the development of natural communities.
+\newblock {\em Journal of Theorectical Biology}, 85:223--245, 1980.
+
+\bibitem{Ulanowicz04}
+RE~Ulanowicz.
+\newblock Quantitative methods for ecological network analysis.
+\newblock {\em Computational Biology and Chemistry}, 28:321--339, 2004.
+
+\bibitem{Ulanowicz90}
+Norden~JS Ulanowicz~RE.
+\newblock Symmetrical overhead in flow networks.
+\newblock {\em International Journal of System Science}, 21:429--437, 1990.
+
+\bibitem{Zorach03}
+Ulanowicz~RE Zorach~AC.
+\newblock Quantifying the complexity of flow networks: how many roles are
+  there?
+\newblock {\em Complexity}, 8:68--76, 2003.
+
+\end{thebibliography}
