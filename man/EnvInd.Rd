@@ -16,7 +16,7 @@
 }
 \value{
   A list with the following items: 
-  \item{NAG }{Network aggradation = average path length }
+  \item{NAG }{Network aggradation = average path length}
   \item{HP }{Homogenization index}
   \item{BC }{Synergism}
   \item{ID }{Dominance of Indirect effects}
@@ -24,12 +24,12 @@
   \item{MG }{Mean of direct flow-matrix (G)}
   \item{CVN }{Coefficient of variation of non-dimensional flow-matrix (N)}
   \item{CVG }{Coefficient of variation of direct flow-matrix (G)}
-  \item{U }{Only if Full == TRUE: The Utility non-dimensional matrix }
+  \item{U }{Only if Full == TRUE: The Utility non-dimensional matrix}
   \item{N1 }{Only if Full == TRUE: The Integral non-dimensional Flow Matrix}
-  \item{G }{Only if Full == TRUE: The Normalized direct flow (or transitive closure matrix) matrix }
+  \item{G }{Only if Full == TRUE: The Normalized direct flow (or transitive closure matrix) matrix}
 }
 \author{Karline Soetaert <k.soetaert@nioo.knaw.nl>,
-   Julius kipkeygon Kones<jkones@uonbi.ac.ke>}
+   Julius Kipyegon Kones<jkones@uonbi.ac.ke>}
 \examples{# The takapoto atoll network
 EnvInd(Takapoto,Import ="CO2",
          Export=c("CO2","Sedimentation","Grazing"))

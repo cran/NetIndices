@@ -17,21 +17,21 @@
    A matrix with ascendency values (columns) for several subnetworks (rows).
    
 The subnetworks (rows) are:
-\cr \code{total} network
-\cr \code{internal} network (excluding flows from and to external)
-\cr \code{import} flows
-\cr \code{export} flows; this includes the usuable and unusable flows (i.e. +dissipation)
-\cr \code{dissipation} flows
+
+\item{total}{ network}
+\item{internal}{ network (excluding flows from and to external)}
+\item{import}{ flows}
+\item{export}{ flows; this includes the usuable and unusable flows (i.e. +dissipation)}
+\item{dissipation}{ flows}
 
 The ascendency indices comprise (columns:)
-\cr \code{asc} the ascendency of the network, a measure of growth and development
-\cr \code{overh} the overhead of the network
-\cr \code{cap} the development capacity of the network, an upper bound on ascendency
-\cr \code{ACratio} the ratio of ascendency and capacity
-                          
+\item{asc}{ the ascendency of the network, a measure of growth and development}
+\item{overh}{ the overhead of the network}
+\item{cap}{ the development capacity of the network, an upper bound on ascendency}
+\item{ACratio}{ the ratio of ascendency and capacity}
 }
 \author{Karline Soetaert <k.soetaert@nioo.knaw.nl>,
-   Julius kipkeygon Kones<jkones@uonbi.ac.ke>}
+   Julius Kipyegon Kones<jkones@uonbi.ac.ke>}
 \examples{# The takapoto atoll network
 AscInd(Takapoto,Import ="CO2",
        Export=c("CO2","Sedimentation","Grazing"),

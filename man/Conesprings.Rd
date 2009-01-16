@@ -9,18 +9,23 @@ analysis by Williams & Crouthamel (1972) in Szyrmer & Ulanowicz (1987, Fig. 1, p
 This is example 1a from Latham (2006).
 
 The food web comprises 5 functional compartments:
-\item - Plants
-\item - Detritus
-\item - Bacteria
-\item - Detritus feeders
-\item - Carnivores
-
+\itemize{
+\item  Plants
+\item  Detritus
+\item  Bacteria
+\item  Detritus feeders
+\item  Carnivores
+}
 and two export compartments
-\item - usable export
-\item - dissipation
-
+\itemize{
+\item  usable export
+\item  dissipation
+}
 and one import compartment
-\item - Inflows}
+
+\itemize{
+\item  Inflows}
+}
 \usage{Conesprings}
 \format{matrix with Tij values, where element (i,j) denotes flow from compartment j to i
 \cr rownames and columnames are the components}

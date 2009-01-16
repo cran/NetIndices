@@ -25,7 +25,7 @@ and the network uncertainty, network constraint and constraint efficiency,...}
   \item{CE }{Constraint efficiency}
 }
 \author{Karline Soetaert <k.soetaert@nioo.knaw.nl>,
-   Julius kipkeygon Kones<jkones@uonbi.ac.ke>}
+   Julius Kipyegon Kones<jkones@uonbi.ac.ke>}
 \examples{# The takapoto atoll network
 UncInd(Takapoto,Import ="CO2",
        Export=c("CO2","Sedimentation","Grazing"))

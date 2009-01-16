@@ -8,22 +8,25 @@
 The Takapoto Atoll lagoon is located in the French Polynesia of the South Pacific
 
 The food web comprises 7 functional compartments:
-\item - Phytoplankton 
-\item - Bacteria 
-\item - Protozoa
-\item - Microzooplankton
-\item - Mesozooplankton
-\item - Detritus
-\item - Dissolved organic carbon (DOC)
-
+  \itemize{
+\item Phytoplankton
+\item Bacteria
+\item Protozoa
+\item Microzooplankton
+\item Mesozooplankton
+\item Detritus
+\item Dissolved organic carbon (DOC)
+}
 one external source:
-\item - CO2
-
+\itemize{
+\item CO2
+}
 and three external sinks:
-\item - CO2
-\item - Sedimentation
-\item - Grazing
-
+\itemize{
+\item CO2
+\item Sedimentation
+\item Grazing
+}
 These compartments are connected with 32 flows.
 Units of the flows are mg C/m2/day}
 \usage{Takapoto}

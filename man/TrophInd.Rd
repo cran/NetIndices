@@ -17,9 +17,10 @@
    a 2-columned data.frame with, for each compartment of the network the following
   \item{TL }{the trophic level of a compartment, defined as 1 + the weighted average of the trophic levels of its food items}
   \item{OI }{the omnivory index, the variety in the trophic levels of a consumer's food}
+
 }
 \author{Karline Soetaert <k.soetaert@nioo.knaw.nl>,
-   Julius kipkeygon Kones<jkones@uonbi.ac.ke>}
+   Julius Kipyegon Kones<jkones@uonbi.ac.ke>}
 \examples{# The takapoto atoll network
 # First trophic level without assuming that TL of detritus and DOC is 1
 TrophInd(Takapoto,Import ="CO2",

@@ -27,7 +27,7 @@
   \item{Cbar }{Compartmentalization, [0,1], the degree of connectedness of subsystems within a network }
 }
 \author{Karline Soetaert <k.soetaert@nioo.knaw.nl>,
-   Julius kipkeygon Kones<jkones@uonbi.ac.ke>}
+   Julius Kipyegon Kones<jkones@uonbi.ac.ke>}
 \examples{# The takapoto atoll network
 (GI<- GenInd(Takapoto,Import ="CO2",
              Export=c("CO2","Sedimentation","Grazing")))

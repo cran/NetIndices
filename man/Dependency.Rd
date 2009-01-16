@@ -16,7 +16,7 @@
    A matrix with dependency of component i on component j
 }
 \author{Karline Soetaert <k.soetaert@nioo.knaw.nl>,
-   Julius kipkeygon Kones<jkones@uonbi.ac.ke>}
+   Julius Kipyegon Kones<jkones@uonbi.ac.ke>}
 \examples{# The takapoto atoll network
 Dependency(Takapoto,Import ="CO2",
            Export=c("CO2","Sedimentation","Grazing"))
