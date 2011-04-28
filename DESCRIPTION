@@ -1,5 +1,5 @@
 Package: NetIndices
-Version: 1.3
+Version: 1.4
 Title: Estimating network indices, including trophic structure of
         foodwebs in R
 Author: Karline Soetaert <k.soetaert@nioo.knaw.nl>, Julius Kipyegon
@@ -14,10 +14,10 @@ Description: Given a network (e.g. a food web), estimates several
         network indices, General network indices, Pathway analysis,
         Network uncertainty indices and constraint efficiencies and the
         trophic level and omnivory indices of food webs.
-License: GPL
+License: GPL (>= 2)
 LazyData: yes
 Repository: CRAN
 Repository/R-Forge/Project: lim
-Repository/R-Forge/Revision: 20
-Date/Publication: 2009-06-17 14:55:43
-Packaged: 2009-06-17 03:05:47 UTC; rforge
+Repository/R-Forge/Revision: 39
+Date/Publication: 2011-08-11 14:33:59
+Packaged: 2011-04-28 10:48:58 UTC; rforge
