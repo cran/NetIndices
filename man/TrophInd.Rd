@@ -46,7 +46,7 @@ TrophInd(Flow = NULL, Tij = t(Flow),
 
 }
 \author{
-  Karline Soetaert <k.soetaert@nioo.knaw.nl>,
+  Karline Soetaert <karline.soetaert@nioz.nl>,
   Julius Kipyegon Kones<jkones@uonbi.ac.ke>}
 \examples{# The takapoto atoll network
 # First trophic level without assuming that TL of detritus and DOC is 1
@@ -92,6 +92,12 @@ TrophInd(Takapoto, Import = "CO2",
 
   The PDF can be found in the subdirectory \file{doc} of the NetIndices package.
 }
-
+\note{
+  Up to version 1.4.1, the estimation of TL produced strange results in case
+  compartments feed on themselves. Then it was possible to produce negative
+  Trophic levels. From version 1.4.2, it is implemented that self-feeding does
+  not affect the TL of the compartment. Because of that, results may be 
+  different from the initial versions in such cases.
+}
 \keyword{utilities}
 
