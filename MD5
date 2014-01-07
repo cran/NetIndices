@@ -1,4 +1,4 @@
-651dc7c9fe75ce1714430cdd01e23eaf *DESCRIPTION
+24fdace824fce79b6174bd73c2b16d8d *DESCRIPTION
 d1e8c707828f5871d06ca6dbf7fa33c5 *NAMESPACE
 f18ff5cdac8dd6a4d00c70cb577c1157 *R/AscInd.R
 d12ffb77594929e1ce6d848854134a07 *R/Dependency.R
@@ -9,14 +9,14 @@ ecd274b1e7a129cc3618548ecbf09f7e *R/GenInd.R
 1685e89e7f15b93944e756093cfb435a *R/PathInd.R
 b364378d6aa3fb00af5161fb8ba85add *R/TrophInd.R
 e4a873013ea0ba176e521e189e9c9839 *R/UnInd.R
-5a14698675f7c7f655b434ddfcf2abd2 *data/Conesprings.rda
-e20494e691339d531c3f98e0f61bc2d4 *data/Takapoto.rda
+80d7bdbeca545f46486e1adae07fe8c3 *build/vignette.rds
+ebce10e7d9b4349bf3321648cf8b14f4 *data/Conesprings.rda
+60b828ce7411f9e9c671cb688f971d9e *data/Takapoto.rda
 f71cc4499571ac545673a8da7eb28418 *inst/CITATION
 e9cc1a68cf163d58e126fc66a12eb89e *inst/EcologicalModelling/KonesPaper.r
 9dd9c4683e506f9c18c8c4496a2a3a5c *inst/EcologicalModelling/Montecarlo.r
-1af69326c7045df83e7e2031c5c48962 *inst/doc/NetIndices.bib
-7315f6f420d39f241e2b013477a5ee87 *inst/doc/NetIndices.pdf
-36d5fbf2190e73b3653be32f5196cd1b *inst/doc/NetIndices.rnw
+2cd40d7208cde94bc6265f1bcd6d5a0f *inst/doc/NetIndices.pdf
+b9d836075d408852f6955edb6800c32b *inst/doc/NetIndices.rnw
 da9fc46d7c882b40efd0d586424c8783 *man/AscInd.Rd
 592b4949e84b52ad7d00cdd5c6a1f445 *man/Conesprings.Rd
 2393c9092476bd2f4ec6bf522c69bdd0 *man/Dependency.Rd
@@ -28,3 +28,5 @@ d011ed333bd38a6676c0a99ef762d6fa *man/EnvInd.Rd
 e77a30c020f479ac16f598a44829d03b *man/Takapoto.Rd
 8f1850e6b564d441de7049ca07e27fc0 *man/TrophInd.Rd
 f3e1d37d221d162f42ab44d1f1ed7228 *man/UncInd.Rd
+1af69326c7045df83e7e2031c5c48962 *vignettes/NetIndices.bib
+b9d836075d408852f6955edb6800c32b *vignettes/NetIndices.rnw
