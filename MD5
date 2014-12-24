@@ -1,5 +1,5 @@
-24fdace824fce79b6174bd73c2b16d8d *DESCRIPTION
-d1e8c707828f5871d06ca6dbf7fa33c5 *NAMESPACE
+4b58a607553192273d63511f546c2245 *DESCRIPTION
+7b9eceb7233db7e83351e9def789ddb7 *NAMESPACE
 f18ff5cdac8dd6a4d00c70cb577c1157 *R/AscInd.R
 d12ffb77594929e1ce6d848854134a07 *R/Dependency.R
 b0cf1e134080c9b40fb9b2c60f3a6039 *R/EffInd.R
@@ -9,9 +9,9 @@ ecd274b1e7a129cc3618548ecbf09f7e *R/GenInd.R
 1685e89e7f15b93944e756093cfb435a *R/PathInd.R
 b364378d6aa3fb00af5161fb8ba85add *R/TrophInd.R
 e4a873013ea0ba176e521e189e9c9839 *R/UnInd.R
-80d7bdbeca545f46486e1adae07fe8c3 *build/vignette.rds
-ebce10e7d9b4349bf3321648cf8b14f4 *data/Conesprings.rda
-60b828ce7411f9e9c671cb688f971d9e *data/Takapoto.rda
+5d30c10b8cff9723ef9c95a9a6568e15 *build/vignette.rds
+f41de6acaa0417097c209a6b21eb5a89 *data/Conesprings.rda
+555fbbadc06ac085e4bfc5ece32e43ff *data/Takapoto.rda
 f71cc4499571ac545673a8da7eb28418 *inst/CITATION
 e9cc1a68cf163d58e126fc66a12eb89e *inst/EcologicalModelling/KonesPaper.r
 9dd9c4683e506f9c18c8c4496a2a3a5c *inst/EcologicalModelling/Montecarlo.r
